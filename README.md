@@ -1,13 +1,10 @@
-Thanks for the clarification. Here's a more complete `README.md` that includes **features** of a typical Laravel package scaffold and instructions on **how to use it with Laravel**:
 
----
-
-```markdown
-# my-package
+# composer-package-starter-kit
 
 A Laravel package scaffolding tool designed to speed up package development with Laravel support.
 
 ## ✨ Features
+```markdown
 
 - Laravel package auto-discovery support
 - PSR-4 autoloading for `src` and `tests` directories
