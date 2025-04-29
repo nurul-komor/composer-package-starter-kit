@@ -128,7 +128,7 @@ my-package/
 
 ## 📄 License
 
-MIT © [Your Name](mailto:your.email@example.com)
+MIT © [Nurul Komor](https://nurulkomor.vercel.app/)
 ```
 
 ---
