@@ -22,41 +22,12 @@ A Laravel package scaffolding tool designed to speed up package development with
 - Supports Laravel 8, 9, and 10
 - PHPUnit and Orchestra Testbench for easy package testing
 - `dev` stability with `prefer-stable` enabled
-
+```
 ## 📦 Installation
 
-First, create your package using the scaffold script:
-
-```bash
-bash create-package.sh
 ```
-
-> This will create a folder named `my-package` (or your custom package name) with all boilerplate files.
-
-Then inside your Laravel app, require the local package:
-
-```bash
-composer require your-vendor/my-package:@dev
-```
-
-If you're testing it locally, use the path option:
-
-```bash
-composer require your-vendor/my-package:@dev --prefer-source
-```
-
-Or add it to `composer.json` manually:
-
-```json
-"repositories": [
-    {
-        "type": "path",
-        "url": "../my-package"
-    }
-],
-"require": {
-    "your-vendor/my-package": "@dev"
-}
+git clone https://github.com/nurul-komor/composer-package-starter-kit
+cd composer-package-starter-kit
 ```
 
 Then run:
