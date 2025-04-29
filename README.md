@@ -16,7 +16,7 @@ A Laravel package scaffolding tool designed to speed up package development with
   - Views
   - Routes
   - Tests
-- Supports Laravel 8, 9, 10....
+- Supports Laravel 8, 9, 10,....
 - PHPUnit and Orchestra Testbench for easy package testing
 - `dev` stability with `prefer-stable` enabled
 ```
