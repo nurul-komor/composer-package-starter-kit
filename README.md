@@ -101,4 +101,4 @@ MIT © [Nurul Komor](https://nurulkomor.vercel.app/)
 
 ---
 
-Would you like this `README.md` content to be automatically generated and added to your Bash script?
+
