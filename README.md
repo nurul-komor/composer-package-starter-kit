@@ -99,6 +99,5 @@ my-package/
 MIT © [Nurul Komor](https://nurulkomor.vercel.app/)
 ```
 
----
 
 
