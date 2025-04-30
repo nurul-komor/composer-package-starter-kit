@@ -97,7 +97,6 @@ my-package/
 ## 📄 License
 
 MIT © [Nurul Komor](https://nurulkomor.vercel.app/)
-```
 
 
 
