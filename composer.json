@@ -33,7 +33,7 @@
                 "MyPackage\\MyPackageServiceProvider"
             ],
             "aliases": {
-                "MyPackage": "\MyPackage\\Facades\\MyPackage"
+                "MyPackage": "MyPackage\\Facades\\MyPackage"
             }
         }
     },
