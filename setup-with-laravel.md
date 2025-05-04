@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # System Logger Package for Laravel
 
 A starter kit for building a Laravel package — includes support for local development, route registration, and service provider loading.
