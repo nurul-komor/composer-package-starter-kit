@@ -19,21 +19,21 @@
     },
     "autoload": {
         "psr-4": {
-            "YourVendor\\MyPackage\\": "src/"
+            "MyPackage\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "YourVendor\\MyPackage\\Tests\\": "tests/"
+            "MyPackage\\Tests\\": "tests/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "YourVendor\\MyPackage\\MyPackageServiceProvider"
+                "MyPackage\\MyPackageServiceProvider"
             ],
             "aliases": {
-                "MyPackage": "YourVendor\\MyPackage\\Facades\\MyPackage"
+                "MyPackage": "\MyPackage\\Facades\\MyPackage"
             }
         }
     },
